@@ -1,14 +1,9 @@
 # DigitalTimer2D
 <html>
   <head>
-    <style>
- .h3{
-    color:red;
-  }
-</style>
   </head>
   <body>
-  
+
   <h1>توجه:برای استفاده حتما باید پایتون بر روی سیستم شما نصب باشد </h1>
 <h3  >کتابخونه مورد استفاده :  Tkinter</h3>
 </body>
